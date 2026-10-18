@@ -1,0 +1,60 @@
+Roll_Number	    Student_Nam    Maths	  Physics	  Chemistry   English     Computer	 PERCENTAGE	  RESULT
+1	            Student 1	     50	        75	        99	        100          48   	 74%	      PASS
+2	            Student 2	     63	        88	        97	        91     	     65	     81%	      PASS
+3	            Student 3	     35	        45	        49	        71     	     47	     49%	      FAIL
+4	            Student 4	     92	        36	        97	        75     	     61	     72%	      PASS
+5	            Student 5	     85	        67	        79	        80     	     83	     79%	      PASS
+6	            Student 6	     100        44          78          46	         72	     68%	      PASS
+7	            Student 7	     71	        93	        53	        74     	     38	     66%	      PASS
+8	            Student 8	     25	        81	        94	        89     	     46	     67%	      PASS
+9	            Student 9	     86	        98	        49	        89     	     99	     84%	      PASS
+10	            Student 10    	 97     	85       	68       	88  	     96    	 87%	      PASS
+11	            Student 11    	 100     	38	        0       	51       	 41    	 46%	      FAIL
+12	            Student 12    	 48     	89       	50       	53  	     96    	 67%	      PASS
+13	            Student 13    	 64     	50       	25       	40  	     67    	 49%	      FAIL
+14	            Student 14    	 86     	74       	99       	96  	     86    	 88%	      PASS
+15	            Student 15    	 90     	60       	72       	69  	     36    	 65%	      PASS
+16	            Student 16    	 39     	54       	93       	97  	     81    	 73%	      PASS
+17	            Student 17    	 60     	68       	97       	94  	     100  	 84%	      PASS
+18	            Student 18    	 98     	90       	39       	72  	     75    	 75%	      PASS
+19	            Student 19    	 93     	47       	91       	100	         68	     80%	      PASS
+20	            Student 20    	 92     	58       	25       	96  	     20    	 58%	      FAIL
+21	            Student 21    	 69     	98       	82       	47  	     59    	 71%	      PASS
+22	            Student 22    	 87     	53       	92       	36  	     46    	 63%	      PASS
+23	            Student 23    	 35     	92       	45       	60  	     66    	 60%	      FAIL
+24	            Student 24    	 50     	40       	69       	80  	     54    	 59%	      FAIL
+25	            Student 25    	 35     	75       	97       	52  	     63    	 64%	      PASS
+26	            Student 26    	 95     	51       	99       	72  	     45    	 72%	      PASS
+27	            Student 27    	 88     	55       	52       	74  	     99    	 74%	      PASS
+28	            Student 28    	 87     	84       	54       	60  	     83    	 74%	      PASS
+29	            Student 29    	 36     	48       	84       	44  	     41    	 51%	      FAIL
+30	            Student 30    	 79     	80       	38       	38  	     100 	 67%	      PASS
+31	            Student 31    	 95     	76       	73       	92  	     76    	 82%	      PASS
+32	            Student 32    	 50     	98       	94       	56  	     54    	 70%	      PASS
+33	            Student 33    	 61     	90       	78       	93  	     64    	 77%	      PASS
+34	            Student 34    	 43     	86       	39       	60  	     57    	 57%	      FAIL
+35	            Student 35    	 40     	41       	44       	25  	     96    	 49%	      FAIL
+36	            Student 36    	 37     	51       	62       	52  	     55    	 51%	      FAIL
+37	            Student 37    	 58     	84       	69       	89  	     88    	 78%	      PASS
+38	            Student 38    	 45     	84       	74       	58  	     79    	 68%	      PASS
+39	            Student 39    	 57     	68       	94       	98  	     88    	 81%	      PASS
+40	            Student 40    	 71     	94       	57       	76  	     96    	 79%	      PASS
+41	            Student 41    	 91     	50       	70       	47  	     62    	 64%	      PASS
+42	            Student 42    	 64     	35       	46       	93  	     77    	 63%	      PASS
+43	            Student 43    	 87     	58       	38       	80  	     55    	 64%	      PASS
+44	            Student 44    	 80     	62       	49       	70  	     62    	 65%	      PASS
+45	            Student 45    	 72     	69       	51       	47  	     68    	 61%	      PASS
+46	            Student 46    	 47     	90       	56       	48  	     42    	 57%	      FAIL
+47	            Student 47    	 80     	58       	48       	99  	     75    	 72%	      PASS
+48	            Student 48    	 70     	43       	72       	75  	     55    	 63%	      PASS
+49	            Student 49    	 68     	67       	43       	36  	     87    	 60%	      PASS
+50  	        Student 50       67         88          36          42  	     47	     56%	      FAIL
+
+
+
+- Learned Conditional Formatting and its different options.
+- Practiced Highlight Cells Rules and Top/Bottom Rules.
+- Applied Data Bars, Color Scales, and Icon Sets.
+- Highlighted student marks based on specific conditions.
+- Explored New Rule, Clear Rules, and Manage Rules.
+- Created Day 6 Excel learning notes infographic.
