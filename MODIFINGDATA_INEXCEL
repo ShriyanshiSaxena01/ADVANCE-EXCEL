@@ -9,3 +9,14 @@ S.NO	NAME	CLASS	RANK IN SCHOOL
 1008	ANYA	10 (B)	     8
 1009	ABHI	10 (D)	     9
 1010	AMANI	10 (A)	     10
+
+
+Your Day 4 infographic should contain:
+1. Colouring rows and columns.
+2. Different Paste Special options: Values, Formulas, Formatting, and Paste Link.
+3. Inserting rows using Ctrl + +.
+4. Deleting rows using Ctrl + -.
+5. Understanding that Excel formulas depend on cell references and values.
+6. Adjusting multiple column widths together.
+7. Selecting multiple columns using Ctrl.
+8. AutoFit column width by double-clicking the column boundary.

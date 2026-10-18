@@ -1,9 +1,20 @@
-NAME	MATH 	SCIENCE	SST	EVS
-ANYA	34	67	58	
-AMAAN	78	34	87	55
-SHIBV	32	99	60	
-SHRYA	98	32	77	
-SARTHAK	56	67	97	
-	298	299	379	
+NAME	MATH 	SCIENCE	  SST	
+ANYA	34	    67	      58	
+AMAAN	78	    34	      87	
+SHIBV	32	    99	      60	
+SHRYA	98	    32	      77	
+SARTHAK	56	    67	      97	
+	    298	    299    	  379	
 
 	
+
+
+Added Excel basics learning notes and practice screenshots covering:
+- Excel interface: Ribbon, Toolbar, Formula Bar, and Cells
+- Basic operations: Insert, Update, and Delete
+- SUM formulas and percentage calculations
+- Number formatting: General, Currency, Accounting, Dates, and Percentage
+- Relative, Absolute, and Mixed Cell References
+- Order of Operations (BODMAS)
+- Common Excel functions and formulas
+Part of my Excel learning journey for Data Analytics.
