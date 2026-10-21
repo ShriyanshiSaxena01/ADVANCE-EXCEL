@@ -1,0 +1,23 @@
+NAME	        MATH MARKS 	CHEMISTRY MARKS	PHYSICS MARKS	TOTALMARKS	PERCENTAGE
+STUDENT 1	    55	        47	             36	            138	        46%
+STUDENT 2	    47	        47	             91	            185	        62%
+STUDENT 3	    37	        78	             42	            157	        52%
+STUDENT 4	    77	        89	             10	            176	        59%
+STUDENT 5	    67	        100              26	            193	        64%
+STUDENT 6	    56	        57	             53	            166	        55%
+STUDENT 7	    63	        57	             18	            138	        46%
+STUDENT 8	    47	        91	             79	            217	        72%
+STUDENT 9	    97	        66	             32	            195	        65%
+STUDENT 10	    38	        14	             93	            145	        48%
+
+
+
+Learned the RAND() function to generate random decimal numbers between 0 and 1.
+Learned the RANDBETWEEN(bottom, top) function to generate random integers within a specified range.
+Practiced generating random student marks using Excel formulas.
+Used Ctrl + Shift + Down Arrow and Ctrl + Shift + Right Arrow to select ranges of cells.
+Learned to fill selected cells with random numbers using Ctrl + Enter.
+Explored the RANDARRAY() function to generate an array of random numbers.
+Understood that random numbers change when Excel recalculates.
+Compared RAND(), RANDBETWEEN(), and RANDARRAY().
+Practiced generating sample data for analysis and testing.
